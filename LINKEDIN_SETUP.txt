@@ -1,0 +1,2 @@
+Replace YOUR_LINKEDIN_URL in index.html with your personal LinkedIn profile URL.
+I did not guess a profile URL because the exact personal profile link was not available.

@@ -1,0 +1,2 @@
+Place your dashboard screenshots in this folder.
+Suggested names: retail-dashboard.png, sales-dashboard.png, customer-analysis.png

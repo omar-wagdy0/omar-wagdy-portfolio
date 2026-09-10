@@ -1,0 +1,1 @@
+Optional custom icons can be placed in this folder.

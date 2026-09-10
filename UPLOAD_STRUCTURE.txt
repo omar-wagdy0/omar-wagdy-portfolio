@@ -1,0 +1,25 @@
+GITHUB UPLOAD CHECK
+
+Upload/extract these items directly into the repository ROOT:
+
+index.html
+style.css
+script.js
+assets/
+projects/
+vercel.json
+robots.txt
+sitemap.xml
+404.html
+
+DO NOT upload only index.html.
+DO NOT upload the ZIP file as the website.
+
+The homepage references:
+style.css
+script.js
+assets/logos/...
+assets/favicon.svg
+projects/*.html
+
+If GitHub contains these at the same root level, the design will load correctly.
